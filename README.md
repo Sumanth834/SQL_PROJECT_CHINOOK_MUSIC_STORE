@@ -1,5 +1,3 @@
-# SQL_PROJECT_CHINOOK_MUSIC_STORE
-
 
 # 🎵 Music Sales Analytics — SQL + Power BI Project
 
