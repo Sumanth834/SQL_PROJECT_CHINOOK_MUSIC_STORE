@@ -93,13 +93,6 @@ This project presents a comprehensive sales and customer analysis for a global m
 
 ---
 
-## 🏁 Final Notes
-
+## SUMMARY
 This project demonstrates how structured relational data combined with advanced SQL and intuitive BI tools can surface **actionable insights** to drive sales, retention, and global marketing strategy.
-
----
-
-## 🔗 Hashtags
-
-`#SQLProject #AdvancedSQL #PowerBI #DataAnalytics #MusicIndustryInsights #CustomerSegmentation #NewtonSchool`
 
