@@ -1,4 +1,3 @@
-<img width="745" height="446" alt="Screenshot 2025-08-05 at 12 30 32 PM" src="https://github.com/user-attachments/assets/7b981620-dcfd-4c0e-b47c-0e867532b304" />
 # 🎵 Music Sales Analytics — SQL + Power BI Project
 
 This project presents a comprehensive sales and customer analysis for a global music distribution platform, leveraging **Advanced SQL (MySQL)** for deep querying and **Power BI** for interactive visual storytelling.
