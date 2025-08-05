@@ -1,11 +1,11 @@
-
+<img width="745" height="446" alt="Screenshot 2025-08-05 at 12 30 32 PM" src="https://github.com/user-attachments/assets/7b981620-dcfd-4c0e-b47c-0e867532b304" />
 # 🎵 Music Sales Analytics — SQL + Power BI Project
 
 This project presents a comprehensive sales and customer analysis for a global music distribution platform, leveraging **Advanced SQL (MySQL)** for deep querying and **Power BI** for interactive visual storytelling.
 
 ---
 
-## 📌 Objectives
+## Objectives
 
 - Identify **top-performing albums** for promotional campaigns.
 - Analyze **global genre preferences** and regional trends.
@@ -14,7 +14,7 @@ This project presents a comprehensive sales and customer analysis for a global m
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **SQL (MySQL 8.0.40)**  
   Advanced queries using:
@@ -28,9 +28,9 @@ This project presents a comprehensive sales and customer analysis for a global m
 
 ---
 
-## 📊 Key Analyses
+##  Key Analyses
 
-### 1. 🎯 Top Albums for U.S. Promotion
+### 1.  Top Albums for U.S. Promotion
 
 - **Method**: `DENSE_RANK()` based on total sales (albums with >4 units).
 - **Genres Prioritized**: Rock, Alternative & Punk, Metal
@@ -43,7 +43,7 @@ This project presents a comprehensive sales and customer analysis for a global m
 
 ---
 
-### 2. 🌎 Global Genre Preference
+### 2.Global Genre Preference
 
 - **Method**: `ROW_NUMBER()` partitioned by country (excluding USA).
 - **Commonalities**:
@@ -56,7 +56,7 @@ This project presents a comprehensive sales and customer analysis for a global m
 
 ---
 
-### 3. 🧾 Customer Behavior Analysis
+### 3.Customer Behavior Analysis
 
 - **Segmentation**:
   - Long-Term: Tenure ≥ 1050 days
@@ -69,7 +69,7 @@ This project presents a comprehensive sales and customer analysis for a global m
 
 ---
 
-### 4. 🔁 Product Affinity Analysis
+### 4.Product Affinity Analysis
 
 - **Genre Pairs**:  
   - Rock–Metal, Rock–Alt & Punk (High overlap)
@@ -83,8 +83,10 @@ This project presents a comprehensive sales and customer analysis for a global m
 **Strategy**: Use bundles, “frequently bought together” suggestions, and curated playlists.
 
 ---
+Dashboard :
+<img width="1490" height="892" alt="image" src="https://github.com/user-attachments/assets/03127d2f-1464-4e45-ad11-c32863751f59" />
 
-## 🧠 Strategic Takeaways
+## Strategic Takeaways
 
 - Double down on **Rock + Alt/Punk + Metal** globally.
 - Tailor **localized strategies** with niche genres per market.
